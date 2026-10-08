@@ -131,6 +131,23 @@ clean architecture and practical solutions.
   </tr>
   <tr>
     <td align="center" valign="middle">
+      <img src="./assets/hydrabak.svg" alt="hydrabak">
+    </td>
+    <td valign="middle">
+      <b>hydrabak</b><br>
+      A small, dependency-free bash script that mirrors a list of source paths to a list of destination drives.
+    </td>
+    <td align="center" valign="middle" nowrap>
+      <!-- <img src="https://img.shields.io/badge/🌐_Website-2B2F36?style=flat-square" alt="Website (coming soon)"><br> -->
+      <a href="https://github.com/jakub-gawlik/hybrabak"><img src="https://img.shields.io/badge/GitHub-3A3F47?style=flat-square&logo=github&logoColor=E8E6E3" alt="GitHub"></a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Backup-3A3F47?style=flat-square" alt="Backup">
+      <img src="https://img.shields.io/badge/Servers-3A3F47?style=flat-square" alt="Servers">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
       <img src="https://placehold.co/260x150/3a3f47/e8e6e3/png?text=laravel-gallery" alt="laravel-gallery">
     </td>
     <td valign="middle">

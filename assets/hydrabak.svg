@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <circle cx="256" cy="256" r="256" style="fill:rgb(26,28,32);"/>
+    <g transform="matrix(1,0,0,1,5.076708,-3.576708)">
+        <g transform="matrix(1,0,0,1,0,-53.5)">
+            <path d="M256,442C248,340 152,341.5 150,223.5" style="fill:none;fill-rule:nonzero;stroke:url(#_Linear1);stroke-width:30px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-53.5)">
+            <path d="M256,442C252,340 260,300 256,176" style="fill:none;fill-rule:nonzero;stroke:url(#_Linear2);stroke-width:30px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-53.5)">
+            <path d="M256,442C264,340 354,395 356,277" style="fill:none;fill-rule:nonzero;stroke:url(#_Linear3);stroke-width:30px;"/>
+        </g>
+    </g>
+    <g id="hdd" transform="matrix(1,0,0,1,151.076708,203.423292)">
+        <g transform="matrix(1,0,0,1,0,-37)">
+            <path d="M50,-23C56.623,-23 62,-17.623 62,-11L62,11C62,17.623 56.623,23 50,23L-50,23C-56.623,23 -62,17.623 -62,11L-62,-11C-62,-17.623 -56.623,-23 -50,-23L50,-23Z" style="fill:url(#_Linear4);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-37)">
+            <path d="M-1,-5C1.76,-5 4,-2.76 4,0C4,2.76 1.76,5 -1,5L-41,5C-43.76,5 -46,2.76 -46,0C-46,-2.76 -43.76,-5 -41,-5L-1,-5Z" style="fill:rgb(182,178,198);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-37)">
+            <circle cx="42" cy="0" r="6.5" style="fill:rgb(180,135,135);"/>
+        </g>
+    </g>
+    <g id="hdd1" affinity:id="hdd" transform="matrix(1,0,0,1,261.076708,156.423292)">
+        <g transform="matrix(1,0,0,1,0,-53.5)">
+            <path d="M50,-23C56.623,-23 62,-17.623 62,-11L62,11C62,17.623 56.623,23 50,23L-50,23C-56.623,23 -62,17.623 -62,11L-62,-11C-62,-17.623 -56.623,-23 -50,-23L50,-23Z" style="fill:url(#_Linear5);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-53.5)">
+            <path d="M-1,-5C1.76,-5 4,-2.76 4,0C4,2.76 1.76,5 -1,5L-41,5C-43.76,5 -46,2.76 -46,0C-46,-2.76 -43.76,-5 -41,-5L-1,-5Z" style="fill:rgb(182,178,198);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-53.5)">
+            <circle cx="42" cy="0" r="6.5" style="fill:rgb(180,135,135);"/>
+        </g>
+    </g>
+    <g id="hdd2" affinity:id="hdd" transform="matrix(1,0,0,1,373.076708,196.423292)">
+        <g transform="matrix(1,0,0,1,-16,23.5)">
+            <path d="M50,-23C56.623,-23 62,-17.623 62,-11L62,11C62,17.623 56.623,23 50,23L-50,23C-56.623,23 -62,17.623 -62,11L-62,-11C-62,-17.623 -56.623,-23 -50,-23L50,-23Z" style="fill:url(#_Linear6);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-16,23.5)">
+            <path d="M-1,-5C1.76,-5 4,-2.76 4,0C4,2.76 1.76,5 -1,5L-41,5C-43.76,5 -46,2.76 -46,0C-46,-2.76 -43.76,-5 -41,-5L-1,-5Z" style="fill:rgb(182,178,198);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-16,23.5)">
+            <circle cx="42" cy="0" r="6.5" style="fill:rgb(180,135,135);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,5.076708,-57.076708)">
+        <path d="M149,424L149,396C149,388.32 155.32,382 163,382L273,382L293,398L349,398C356.68,398 363,404.32 363,412L363,424L149,424Z" style="fill:rgb(78,80,91);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1.441176,5.076708,-239.723767)">
+        <path d="M349,414C356.727,414 363,418.353 363,423.714L363,472.286C363,477.647 356.727,482 349,482L163,482C155.273,482 149,477.647 149,472.286L149,423.714C149,418.353 155.273,414 163,414L349,414Z" style="fill:url(#_Linear7);"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-230,230,0,120,442)"><stop offset="0" style="stop-color:rgb(174,133,171);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(37,74,101);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-266,266,0,254.845299,442)"><stop offset="0" style="stop-color:rgb(174,133,171);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(37,74,101);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-230,230,0,256,442)"><stop offset="0" style="stop-color:rgb(174,133,171);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(37,74,101);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,46,-46,0,-62,-23)"><stop offset="0" style="stop-color:rgb(80,76,94);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(36,40,50);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,46,-46,0,-62,-23)"><stop offset="0" style="stop-color:rgb(80,76,94);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(36,40,50);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear6" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,46,-46,0,-62,-23)"><stop offset="0" style="stop-color:rgb(80,76,94);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(36,40,50);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear7" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,68,-68,0,149,414)"><stop offset="0" style="stop-color:rgb(26,28,32);stop-opacity:1"/><stop offset="0.19" style="stop-color:rgb(48,50,56);stop-opacity:1"/><stop offset="0.4" style="stop-color:rgb(69,71,80);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(78,80,91);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
