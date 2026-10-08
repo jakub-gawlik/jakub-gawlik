@@ -111,7 +111,7 @@ clean architecture and practical solutions.
   </tr>
   <tr>
     <td width="18%" align="center" valign="middle">
-      <img src="https://placehold.co/260x150/3a3f47/e8e6e3/png?text=cyber-ui" alt="cyber-ui">
+      <img src="./assets/cyber-ui.svg" alt="cyber-ui">
     </td>
     <td width="44%" valign="middle">
       <b>cyber-ui</b><br>
@@ -148,7 +148,7 @@ clean architecture and practical solutions.
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://placehold.co/260x150/3a3f47/e8e6e3/png?text=laravel-gallery" alt="laravel-gallery">
+      <img src="./assets/laravel-gallery.svg" alt="laravel-gallery">
     </td>
     <td valign="middle">
       <b>laravel-gallery</b><br>
@@ -168,7 +168,7 @@ clean architecture and practical solutions.
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://placehold.co/260x150/3a3f47/e8e6e3/png?text=laravel-gallery" alt="laravel-journal">
+      <img src="./assets/laravel-journal.svg" alt="laravel-journal">
     </td>
     <td valign="middle">
       <b>laravel-journal</b><br>
