@@ -81,7 +81,8 @@ clean architecture and practical solutions.
     </td>
     <td align="center" valign="middle" nowrap>
       <!-- <img src="https://img.shields.io/badge/🌐_Website-2B2F36?style=flat-square" alt="Website (coming soon)"><br> -->
-      <a href="https://github.com/lock-wood/lock-wood-theme"><img src="https://img.shields.io/badge/GitHub-3A3F47?style=flat-square&logo=github&logoColor=E8E6E3" alt="GitHub"></a>
+      <a href="https://github.com/lock-wood/lock-wood-theme"><img src="https://img.shields.io/badge/GitHub-3A3F47?style=flat-square&logo=github&logoColor=E8E6E3" alt="GitHub"></a><br>
+      <a href="https://lock-wood.xyz"><img src="https://img.shields.io/badge/🌐_Website-4F6A84?style=flat-square" alt="Website"></a><br>
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/Theme-3A3F47?style=flat-square" alt="Theme">
