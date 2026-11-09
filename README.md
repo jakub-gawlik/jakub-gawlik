@@ -1,12 +1,13 @@
 <div align="center">
 
-**Jakub Gawlik** &nbsp;|&nbsp;
-&nbsp;<small>[caasi.dev](https://caasi.dev)</small>
+**Jakub Gawlik**
 
 **Software Engineer** &nbsp;·&nbsp; UK
 
 I build modern web applications, APIs, and developer tools<br> with a focus on
 clean architecture and practical solutions.
+
+<img src="./assets/logo.svg" alt="logo" width="256">
 
 [Website](https://caasi.dev) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/jakub-gawlik-11018a258/) &nbsp;·&nbsp;
